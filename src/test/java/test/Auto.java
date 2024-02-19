@@ -9,15 +9,9 @@ public class Auto {
 		String marca;
 		Motor motor;
 		int registro;
-		public static int cantidadCreados = 0;
 		
-		static int cantidadAsientos() {
-			
-		}
 		
-		static String verificarIntegridad() {
-			
-		}
+		
 	}
 
 }
